@@ -7,4 +7,4 @@
 7. On left panel select rekordbox.xml and expand it.
 8. Click on "All Tracks", select all your tracks (CTRL+A), right click and import to collection.
 9. Double check your memory cues to make sure there's something there.
-10. Viola, all your hot cues and now in memory and can be accessed while playing live.
+10. Viola, all your hot cues are now in memory and can be accessed while playing live.
