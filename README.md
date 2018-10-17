@@ -5,6 +5,6 @@
 5. Go back into rekordbox. Go to File -> Preferences -> Advanced -> rekordbox XML -> Imported Library
 6. Select pioneerXMLv2.xml
 7. On left panel select rekordbox.xml and expand it.
-8. Click on "All Tracks" and reanalyze your tracks. You can also select all tracks and drag them to the player on the top.
+8. Click on "All Tracks", select all your tracks (CTRL+A), right click and import to collection.
 9. Double check your memory cues to make sure there's something there.
-10. Viola, all your hot cues and now in memory and can be accessed while playing live. 
+10. Viola, all your hot cues and now in memory and can be accessed while playing live.
