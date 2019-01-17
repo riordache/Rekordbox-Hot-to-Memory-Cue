@@ -4,6 +4,7 @@
 4. Run .exe file.
 5. Go back into rekordbox. Go to File -> Preferences -> Advanced -> rekordbox XML -> Imported Library
 6. Select pioneerXMLv2.xml
+6.5 Restart Rekordbox
 7. On left panel select rekordbox.xml and expand it.
 8. Click on "All Tracks", select all your tracks (CTRL+A), right click and import to collection.
 9. Double check your memory cues to make sure there's something there.
